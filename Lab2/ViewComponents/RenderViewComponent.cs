@@ -7,7 +7,7 @@ namespace Lab_02.ViewComponents;
 public class RenderViewComponent : ViewComponent
 {
     private List<MenuItem> menuItems = new List<MenuItem>();
-
+    //thay the sau nay bang ket noi database
     public RenderViewComponent() 
     {
         menuItems.Add(new MenuItem() { Id = 1, Name = "Branches", Link = "Branches/List" });
@@ -16,7 +16,7 @@ public class RenderViewComponent : ViewComponent
         menuItems.Add(new MenuItem() { Id = 4, Name = "Courses", Link = "Courses/List" });
     }
     public async Task<ViewViewComponentResult> InvokeAsync()
-    {
+    {   //dat rederleftmenu trong shared/components/render
         return View("RenderLeftMenu", menuItems);
     }
 }

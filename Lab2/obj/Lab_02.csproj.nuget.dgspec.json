@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\Labs-Web\\Lab2\\Lab_02.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\Lab_Web\\Lab2\\Lab_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\Labs-Web\\Lab2\\Lab_02.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\Lab_Web\\Lab2\\Lab_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Labs-Web\\Lab2\\Lab_02.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Lab_Web\\Lab2\\Lab_02.csproj",
         "projectName": "Lab_02",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Labs-Web\\Lab2\\Lab_02.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Lab_Web\\Lab2\\Lab_02.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Labs-Web\\Lab2\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Lab_Web\\Lab2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
